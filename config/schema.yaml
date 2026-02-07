@@ -8,6 +8,16 @@ output_dir:
   mode: 'w'
   required: true
   help: 'Absolute path to output directory'
+apptainer_library:
+  type: 'Path'
+  mode: 'r'
+  required: false
+  help: 'Absolute path to Apptainer library directory'
+apptainer_cache:
+  type: 'Path'
+  mode: 'w'
+  required: false
+  help: 'Absolute path to Apptainer cache directory'
 input:
   type: 'Namespace'
   required: true
