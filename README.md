@@ -1,6 +1,6 @@
 # Calculate-mtDNA-CopyNumber
 
-[![Prepare release](https://img.shields.io/badge/Action-Create%20New%20Release-blue)](https://github.com/uclahs-cds/pipeline-calculate-mtDNA-CopyNumber/actions/workflows/prepare-release.yaml)
+[![Prepare release](https://img.shields.io/badge/Action-Create%20New%20Release-blue)](https://github.com/theboutroslab/pipeline-calculate-mtDNA-CopyNumber/actions/workflows/prepare-release.yaml)
 
 - [Calculate-mtDNA-CopyNumber](#calculate-mtdna-copynumber)
   - [Overview](#overview)
@@ -33,7 +33,7 @@ The pipeline takes as input contig-stratified coverage information and calculate
 nextflow run path/to/main.nf -c path/to/input.config -params-file path/to/input.yaml
 ```
 
-4. To submit to UCLAHS-CDS infrastructure, use the submission script [here](https://github.com/uclahs-cds/tool-submit-nf)
+4. To submit to UCLAHS-CDS infrastructure, use the submission script [here](https://github.com/theboutroslab/tool-submit-nf)
 
 ---
 
@@ -75,15 +75,15 @@ input:
 
 ## Discussions
 
-- [Issue tracker](https://github.com/uclahs-cds/pipeline-calculate-mtDNA-CopyNumber/issues) to report errors and enhancement ideas.
-- Discussions can take place in [calculate-mtDNA-CopyNumber Discussions](https://github.com/uclahs-cds/pipeline-calculate-mtDNA-CopyNumber/discussions)
-- [calculate-mtDNA-CopyNumber pull requests](https://github.com/uclahs-cds/pipeline-calculate-mtDNA-CopyNumber/pulls) are also open for discussion
+- [Issue tracker](https://github.com/theboutroslab/pipeline-calculate-mtDNA-CopyNumber/issues) to report errors and enhancement ideas.
+- Discussions can take place in [calculate-mtDNA-CopyNumber Discussions](https://github.com/theboutroslab/pipeline-calculate-mtDNA-CopyNumber/discussions)
+- [calculate-mtDNA-CopyNumber pull requests](https://github.com/theboutroslab/pipeline-calculate-mtDNA-CopyNumber/pulls) are also open for discussion
 
 ---
 
 ## Contributors
 
-Please see list of [Contributors](https://github.com/uclahs-cds/pipeline-calculate-mtDNA-CopyNumber/graphs/contributors) at GitHub.
+Please see list of [Contributors](https://github.com/theboutroslab/pipeline-calculate-mtDNA-CopyNumber/graphs/contributors) at GitHub.
 
 ---
 
