@@ -55,6 +55,8 @@ input:
 | ----- | ---- | ------------ | ------------------------ |
 | `output_dir` | path | yes | Path to which outputs should be saved. |
 | `work_dir` | path | no | Path of working directory for Nextflow. When included in the sample config file, Nextflow intermediate files and logs will be saved to this directory. With ucla_cds, the default is `/scratch` and should only be changed for testing/development. Changing this directory to `/hot` or `/tmp` can lead to high server latency and potential disk space limitations, respectively. |
+| `apptainer_library` | path | no | Path to readable Apptainer library directory containing any existing Apptainer images. |
+| `apptainer_cache` | path | no | Path to writeable Apptainer cache directory where images will be cached. |
 | `singularity_library` | path | no | Path to readable Singularity library directory containing any existing Singularity images. |
 | `singularity_cache` | path | no | Path to writeable Singularity cache directory where images will be cached. |
 
