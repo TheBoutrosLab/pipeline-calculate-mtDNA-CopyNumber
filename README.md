@@ -1,6 +1,6 @@
 # Calculate-mtDNA-CopyNumber
 
-[![Prepare release](https://img.shields.io/badge/Action-Create%20New%20Release-blue)](https://github.com/theboutroslab/pipeline-calculate-mtDNA-CopyNumber/actions/workflows/prepare-release.yaml)
+[![GitHub release](https://img.shields.io/github/v/release/TheBoutrosLab/pipeline-calculate-mtDNA-CopyNumber)](https://github.com/TheBoutrosLab/pipeline-calculate-mtDNA-CopyNumber/actions/workflows/prepare-release.yaml)
 
 - [Calculate-mtDNA-CopyNumber](#calculate-mtdna-copynumber)
   - [Overview](#overview)
