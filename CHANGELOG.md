@@ -8,6 +8,10 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [1.4.0] - 2026-09-02
 
+### Changed
+
+- Update config submodule
+
 ## [1.3.0] - 2026-08-28
 
 ### Changed
