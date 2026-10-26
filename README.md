@@ -25,6 +25,8 @@ The pipeline takes as input contig-stratified coverage information and calculate
 
 ## How To Run
 
+**Requirements**: Currently supported Nextflow versions: `25.10.5` (requires Java 17 or later)
+
 1. Copy and edit the [input config file](./input/template.config)
 
 2. Copy and edit the [input YAML](./input/template-input-coverage.yaml)
